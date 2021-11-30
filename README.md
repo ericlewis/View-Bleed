@@ -10,7 +10,7 @@ struct ContentView: View {
     let padding = 10
     
     var body: some View {
-        Group {
+        VStack {
             Image("card")
                 .bleed([.horizontal, .top], padding)
             Text("Testing")
