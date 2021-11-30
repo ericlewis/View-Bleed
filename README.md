@@ -7,7 +7,7 @@ The opposite of padding.
 import SwiftUI
 
 struct ContentView: View {
-    let padding = 10
+    let padding = 10.0
     
     var body: some View {
         VStack(spacing: padding) {
