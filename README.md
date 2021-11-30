@@ -10,7 +10,7 @@ struct ContentView: View {
     let padding = 10
     
     var body: some View {
-        VStack(spacing: 10) {
+        VStack(spacing: padding) {
             Image("card")
                 .bleed([.horizontal, .top], padding)
             Text("Testing")
