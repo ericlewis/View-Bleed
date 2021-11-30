@@ -29,3 +29,6 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 ```
+
+### Preview
+![Simulator Screen Shot - iPhone 13 Pro - 2021-11-30 at 17 42 56](https://user-images.githubusercontent.com/674503/144140059-c2e21e9c-f059-4434-886c-6c17a4182584.png)
