@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Testing")
         }
         .padding(padding)
+        .border(Color.red)
     }
 }
 ```
